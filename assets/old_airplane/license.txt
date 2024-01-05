@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Airplane
+* source:	https://sketchfab.com/3d-models/old-airplane-638bbab41d834f648d78dfaf29c73684
+* author:	Leonardo moreira (https://sketchfab.com/Leon.Moreira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Airplane" (https://sketchfab.com/3d-models/old-airplane-638bbab41d834f648d78dfaf29c73684) by Leonardo moreira (https://sketchfab.com/Leon.Moreira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
