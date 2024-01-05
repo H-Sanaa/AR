@@ -27,18 +27,19 @@ var models = [
         info: 'Air plane',
         rotation: '0 180 0',
     },
+ 
+    {
+        url: './assets/articuno/scene.gltf',
+        scale: '0.08 0.08 0.08',
+        rotation: '0 180 0',
+        info: 'Articuno',
+    },
     {
         url: './assets/swat_operator/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
         info: 'Swat ',
     },
-    // {
-    //     url: './assets/dragonite/scene.gltf',
-    //     scale: '0.08 0.08 0.08',
-    //     rotation: '0 180 0',
-    //     info: 'Dragonite, Lv. 99, HP 150/150',
-    // },
 ];
 
 var modelIndex = 0;
